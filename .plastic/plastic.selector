@@ -1,0 +1,4 @@
+repository "rogue@akac1de@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

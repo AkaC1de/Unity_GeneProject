@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OtherGround
+  - ShootUp
+  - TimeUp
+  - Collection
+  - BulletUp
+  - InitTimeUp
+  - InitBulletUp
+  - InitShootUp
+  - InitPoint
+  - InitShootUp
+  - Boss
+  - AirWall
+  - 1
+  - Enemy
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Room
+  - Bullet
+  - Ground
+  - Player
+  - Wall
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3550810813
+    locked: 0
+  - name: Room
+    uniqueID: 2383719269
+    locked: 0
+  - name: Door
+    uniqueID: 675582973
+    locked: 0
